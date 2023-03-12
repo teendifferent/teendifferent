@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=teendifferent&color=brightgreen)
 
 ### Greetings! 
-My moniker is Tarun, a multi-talented student proficient in the art of coding, designing, and app/software analysis. My passion lies in tackling intricate challenges across a range of software development paradigms, networks, and cyber security. With an unyielding desire to enhance my creativity and improve my analytical decision-making skills, I am always on the lookout for opportunities to confront real-life problems and add innovative solutions to the world. Let's get coding and make a difference!
+Welcome to Teendifferent, where coding and technology come together in a passionate embrace! I'm Tarun, your guide on this exciting journey. As a tech nerd, I'm obsessed with coding and constantly exploring new possibilities to enhance my skills and knowledge. And now, I invite you to join me on this exciting adventure, where we'll discover the magic of programming together. Along the way, I'll also share my insights on AI and Cyber Sec projects, so buckle up and get ready to experience the world of technology like never before!
 
 #### Pray, let us engage in tech and bring about a mirthful change!
 
