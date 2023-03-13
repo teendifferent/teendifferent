@@ -13,6 +13,7 @@ Welcome to Teendifferent, where coding and technology come together in a passion
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teendifferent&theme=dracula" alt="teendifferent" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
